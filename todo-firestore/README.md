@@ -3,6 +3,12 @@
 Vamos adaptar nuestro proyecto anterior [Tasks en Windows](https://bluuweb.github.io/quasar/todo-windows/)
 con Firebase / Firestore
 
+::: tip Curso completo de VUE de cero a Experto!
+Aprende Vue.js + Firebase + Node.js + MongoDB en un curso completo!
+[Accede aquí](http://curso-vue-js-udemy.bluuweb.cl)
+:::
+
+
 ## Boot
 
 Si nos fijamos en nuestro directorio de carpetas existe una llamada `boot` aquí vamos a crear un archivo llamado `firebase.js`, recuerde antes crear un nuevo proyecto en su consola de [firebase](https://console.firebase.google.com/)

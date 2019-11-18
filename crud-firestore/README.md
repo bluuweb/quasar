@@ -1,6 +1,12 @@
 # CRUD Firestore
 Veamos como realizar un crud utilizando Quasar y Vuex.
 
+::: tip Curso completo de VUE de cero a Experto!
+Aprende Vue.js + Firebase + Node.js + MongoDB en un curso completo!
+[Accede aquí](http://curso-vue-js-udemy.bluuweb.cl)
+:::
+
+
 ## Boot Firebase
 ```js
 import * as firebase from "firebase/app"

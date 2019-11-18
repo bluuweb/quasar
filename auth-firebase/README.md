@@ -1,5 +1,11 @@
 # Auth con Firebase
 
+::: tip Curso completo de VUE de cero a Experto!
+Aprende Vue.js + Firebase + Node.js + MongoDB en un curso completo!
+[Accede aquí](http://curso-vue-js-udemy.bluuweb.cl)
+:::
+
+
 ## Instalar Firebase
 ```
 npm i firebase

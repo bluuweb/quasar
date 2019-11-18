@@ -2,6 +2,11 @@
 
 Veamos como realizar una App en Windows utilizando Vue Js con Quasar Framework.
 
+::: tip Curso completo de VUE de cero a Experto!
+Aprende Vue.js + Firebase + Node.js + MongoDB en un curso completo!
+[Accede aquí](http://curso-vue-js-udemy.bluuweb.cl)
+:::
+
 ## Instalación
 
 En el video anterior revisamos qué es Quasar e instalamos nuestro primer proyecto: [Ver video aquí](https://www.youtube.com/watch?v=AFMDrML0aOQ)
