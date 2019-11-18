@@ -16,8 +16,9 @@ module.exports = {
       [
         '/',
         '/todo-windows/',
-        '/auth-firebase/',
-        '/crud-firestore/',
+        '/todo-firestore/',
+        // '/auth-firebase/',
+        // '/crud-firestore/',
       ]
   }
  
