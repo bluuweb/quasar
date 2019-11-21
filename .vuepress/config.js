@@ -17,6 +17,7 @@ module.exports = {
         '/',
         '/todo-windows/',
         '/todo-firestore/',
+        '/buscador/',
         // '/auth-firebase/',
         // '/crud-firestore/',
       ]
